@@ -16,3 +16,19 @@ Bulbasaur:
 033:Synthesis
 037:Seed Bomb
 
+Ivysaur:
+001:Growl
+001:Leech Seed
+001:Tackle
+009:Vine Whip
+013:Poison Powder
+013:Sleep Powder
+015:Take Dawn
+020:Razor Leaf
+023:Sweet Scent
+028:Growth
+031:Double-Edge
+036:Worry Seed
+039:Synthesis
+044:Solar Beam
+
