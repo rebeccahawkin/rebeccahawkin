@@ -147,4 +147,7 @@ Blastoise
 001:Flash Cannon
 001:Aqua Jet
 001:Aura Sphere
-00
+004:Dark Pulse
+
+
+
