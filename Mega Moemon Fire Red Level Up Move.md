@@ -148,6 +148,37 @@ Blastoise
 001:Aqua Jet
 001:Aura Sphere
 004:Dark Pulse
+007:Bubble
+010:Withdraw
+013:Water Gun
+016:Bite
+020:Rapid Spin
+024:Protect
+028:Scald
+032:Aqua Tail
+039:Skull Bash
+046:Iron Defense
+053:Muddy Water
+060:Hydro Pump
+
+Caterpie
+001:Tackle
+001:String Shot
+007:Bug Bite
+
+Metapod
+001:Tackle
+007:Harden
+
+Butterfree
+001:Electroweb
+010:Confusion
+012:Poison Powder
+012:Stun Spore
+012:Sleep Powder
+016:Gust
+018:Supersonic
+
 
 
 
