@@ -178,7 +178,16 @@ Butterfree
 012:Sleep Powder
 016:Gust
 018:Supersonic
+022:Whirlwind
+024:Psybeam
+028:Silver Wind
+030:Roost
+034:Rage Podwer
+036:Safeguard
+040:U-Turn
+042:Bug Buzz
+046:Quiver Dance
 
-
-
-
+Weedle
+001:Poison Sting
+001:String Shot
