@@ -378,3 +378,6 @@ Levle Up Move
 010:Quick Attack
 018:Double Team
 021:Slam
+026:Spark
+029:Charming Cry
+03
