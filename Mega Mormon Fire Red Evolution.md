@@ -7,4 +7,4 @@ Pidgey(18)Pidgeotto(36)Pidgeot
 Rattata(20)Raticate
 Spearow(20)Fearow
 Ekans(22)Arbok
-Pikachu(Thunder Stone)
+Pikachu(Thunder Stone)Raichu
