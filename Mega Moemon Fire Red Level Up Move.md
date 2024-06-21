@@ -380,4 +380,24 @@ Levle Up Move
 021:Slam
 026:Spark
 029:Charming Cry
-03
+034:Agility
+037:Discharge
+042:Thunderbolt
+045:Wild Charge
+
+026:Raichu
+001:Grass Knot
+001:Charge Beam
+001:Dynami Punch
+001:Nasty Plot
+001:Focus Blast
+
+027.Sandshrew
+001:Scratch
+001:Defense Curl
+003:Sand-Attack
+005:Poison Sting
+007:Rollout
+009:Rapid Spin
+011:Swift
+014:Fury Cutter
