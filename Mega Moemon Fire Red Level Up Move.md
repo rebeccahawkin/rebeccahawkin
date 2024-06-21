@@ -412,6 +412,9 @@ Levle Up Move
 046:Earthquake
 
 028.Sandslash
-
-
-
+001:Stone Edge
+001:Hone Claws
+001:Shadow Claws
+001:X-Scissor
+003:Sand-Attack
+00
