@@ -408,6 +408,10 @@ Levle Up Move
 030:Knock Off
 034:Metal Claw
 038:Swords Dance
+042:Sandstorm
+046:Earthquake
+
+028.Sandslash
 
 
 
