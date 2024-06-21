@@ -401,3 +401,13 @@ Levle Up Move
 009:Rapid Spin
 011:Swift
 014:Fury Cutter
+017:Magnitude
+020:Fury Swipes
+023:Sand Tomb
+026:Slash
+030:Knock Off
+034:Metal Claw
+038:Swords Dance
+
+
+
