@@ -9,5 +9,5 @@ Spearow(20)Fearow
 Ekans(22)Arbok
 Pikachu(Thunder Stone)Raichu
 Sandshrew(22)Sandslash
-Nidoran♀(1
+Nidoran♀(16)Nidorina(Moon Stone)Nidoqueen
 
