@@ -433,5 +433,6 @@ Levle Up Move
 046:Sandstorm
 050:Earthquake
 
-
-
+029.Nidoran♀
+001:Growl
+001:Scratch
