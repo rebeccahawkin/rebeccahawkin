@@ -436,3 +436,18 @@ Levle Up Move
 029.Nidoran♀
 001:Growl
 001:Scratch
+007:Tail Whip
+009:Double Kick
+013:Poison Sting
+019:Fury Swipes
+021:Bite
+025:Helping Hand
+031:Toxic Spikes
+033:Flatter
+037:Crunch
+043:Focus Energy
+045:Poison Fang
+
+030.Nidorina
+001:Growl
+001:Scratch
