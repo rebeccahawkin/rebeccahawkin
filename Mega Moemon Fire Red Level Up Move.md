@@ -417,4 +417,21 @@ Levle Up Move
 001:Shadow Claws
 001:X-Scissor
 003:Sand-Attack
-00
+005:Poison Sting
+007:Rollout
+009:Rapid Spin
+011:Swift
+014:Fury Cutter
+017:Magnitude
+020:Fury Swipes
+022:Crush Claw
+026:Sand Tomb
+030:Slash
+034:Knock Off
+038:Metal Claw
+042:Sword Dance
+046:Sandstorm
+050:Earthquake
+
+
+
