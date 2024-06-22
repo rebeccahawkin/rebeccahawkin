@@ -451,3 +451,57 @@ Levle Up Move
 030.Nidorina
 001:Growl
 001:Scratch
+007:Tail Whip
+009:Double Kick
+013:Poison Sting
+020:Fury Swipes
+023:Bite
+028:Helping Hand
+035:Toxic Spikes
+038:Flatter
+043:Crunch
+050:Focus Energy
+058:Poison Fang
+
+031.Nidoqueen
+001:Sludge Wave
+001:Beat Up
+001:Stone Edge
+001:Poison Jab
+023:Super Fang
+035:Body Slam
+043:Earth Power
+058:Superpower
+
+032.Nidoran♂
+001.Leer
+001.Peck
+007:Focus Energy
+009:Double Kick
+013:Poison Sting
+019:Fury Attack
+021:Horn Attack
+025:Helping Hand
+031.Toxic Spikes
+033:Flatter
+037:Poison Jab
+043:Drill Run
+045:Horn Drill
+
+033.Nidorino
+001:Leer
+001:Peck
+007:Focus Energy
+009:Double Kick
+013:Poison Sting
+020:Fury Attack
+023:Horn Attack
+028:Helping Hand
+035:Toxic Spikes
+038:Flatter
+043:Poison Jab
+050.Drill Run
+058.Horn Drill
+
+034.Nidoking
+
