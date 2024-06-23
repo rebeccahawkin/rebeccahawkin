@@ -528,6 +528,36 @@ Levle Up Move
 031:Metronome
 034:Moonlight
 037:Moonblast
+040:Body Slam
+043:Meteor Mash
+046:Tickle
 
+036.Clefable
+001:Moonblast
+001:Grass Knot
+001:Belly Drum
+001:Wish
+001:Heal Bell
+
+037.Vulpix
+001:Ember
+004:Tail Whip
+007:Roar
+010:Quick Attack
+012:Fire Spin
+015:Confuse Ray
+018:Imprison
+020:Feint Attack
+023:Flame Burst
+026:Hypnosis
+028:Hex
+031:Dark Pulse
+034:Flamethrower
+036:Disable
+039:Extrasensory
+042:Fire Blast
+044:Grudge
+047:Flare Blitz
+050:Inferno
 
 
