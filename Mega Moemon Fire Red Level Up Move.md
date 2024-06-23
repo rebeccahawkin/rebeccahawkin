@@ -504,4 +504,30 @@ Levle Up Move
 058.Horn Drill
 
 034.Nidoking
+001.Focus Blast
+001.Sucker Punch
+001.Head Smash
+001.Aqua Tail
+023:Poison Tail
+035:Thrash
+043:Earth Power
+058:Megahorn
+
+035.Clefairy
+001:Pound
+001:Growl
+004:Encore
+007:Sing
+010:Double Slap
+013:Defense Curl
+016:Follow Me
+019:Minimize
+022:Wake-Up Slap
+025:Cosmic Power
+028:Stored Power
+031:Metronome
+034:Moonlight
+037:Moonblast
+
+
 
