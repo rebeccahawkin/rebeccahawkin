@@ -568,6 +568,20 @@ Levle Up Move
 001:Pain Split
 001:Nasty Plot
 001:Zen Headbutt
-00
+
+039.Jigglypuff
+001:Sing
+005:Defense Curl
+009:Pound
+013:Disable
+017:Rollout
+021:Double Slap
+025:Charming Cry
+029:Body Slam
+033:Wake-Up Slap
+037:Fake Tears
+041:Mimic
+045:Hyper Voice
+049:Double-Edge
 
 
