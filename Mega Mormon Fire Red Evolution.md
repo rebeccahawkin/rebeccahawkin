@@ -12,4 +12,4 @@ Sandshrew(22)Sandslash
 Nidoran♀(16)Nidorina(Moon Stone)Nidoqueen
 Nidoran♂(16)Nidorino(Moon Stone)Nidoking
 Clefairy(Moon Stone)Clefable
-Vulpix(Fire Stone)
+Vulpix(Fire Stone)Ninetales
