@@ -560,4 +560,14 @@ Levle Up Move
 047:Flare Blitz
 050:Inferno
 
+038.Ninetales
+001:Heat Wave
+001:Energy Ball
+001:Dark Pulse
+001.Extrasensory
+001:Pain Split
+001:Nasty Plot
+001:Zen Headbutt
+00
+
 
