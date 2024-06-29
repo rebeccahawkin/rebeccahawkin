@@ -593,5 +593,11 @@ Levle Up Move
 001:Fous Blast
 
 041.Zubat
+001:Leech Life
+004:Supersonic
+008:Astonish
+012:Bite
+015:Wing Attack
+01
 
 
