@@ -15,4 +15,4 @@ Clefairy(Moon Stone)Clefable
 Vulpix(Fire Stone)Ninetales
 Jigglypuff(Moon Stone)Wigglytuff
 Zubat(22)Golbat(High Friendship)Crobat
-Oddish(21)Gloom(Leaf Stone)Gloom
+Oddish(21)Gloom(Leaf Stone)
