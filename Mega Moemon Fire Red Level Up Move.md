@@ -601,4 +601,9 @@ Levle Up Move
 019:Confuse Ray
 023:Swift
 026:Air Cutter
-02
+030:Acrobatics
+034:Mean Look
+037:Poison Fang
+041:Haze
+045:Air Slash
+04
