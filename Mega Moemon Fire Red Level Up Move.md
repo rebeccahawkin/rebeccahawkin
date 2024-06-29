@@ -598,6 +598,7 @@ Levle Up Move
 008:Astonish
 012:Bite
 015:Wing Attack
-01
-
-
+019:Confuse Ray
+023:Swift
+026:Air Cutter
+02
