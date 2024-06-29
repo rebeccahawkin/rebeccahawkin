@@ -14,4 +14,4 @@ Nidoran♂(16)Nidorino(Moon Stone)Nidoking
 Clefairy(Moon Stone)Clefable
 Vulpix(Fire Stone)Ninetales
 Jigglypuff(Moon Stone)Wigglytuff
-
+Zubat(22)Golbat(High Friendship)Crobat
