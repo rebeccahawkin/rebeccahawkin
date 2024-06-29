@@ -584,4 +584,14 @@ Levle Up Move
 045:Hyper Voice
 049:Double-Edge
 
+040.Wigglytuff
+001.Giga Impact
+001:Grass Knot
+001:Nasty Plot
+001:Drain Kiss
+001:Play Rough
+001:Fous Blast
+
+041.Zubat
+
 
