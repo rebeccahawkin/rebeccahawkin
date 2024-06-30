@@ -664,4 +664,10 @@ Levle Up Move
 053:Petal Dance
 065:Energy Ball
 
+046.Paras
+001:Scratch
+006:Stun Spore
+006:Poison Powder
+
+
 
