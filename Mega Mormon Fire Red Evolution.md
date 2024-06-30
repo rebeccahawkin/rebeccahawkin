@@ -16,3 +16,4 @@ Vulpix(Fire Stone)Ninetales
 Jigglypuff(Moon Stone)Wigglytuff
 Zubat(22)Golbat(High Friendship)Crobat
 Oddish(21)Gloom(Leaf Stone)Vileplume
+Paras(24)
