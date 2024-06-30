@@ -679,5 +679,21 @@ Levle Up Move
 054:X-Scissor
 
 047.Parasect
+001:Metal Claw
+001:Seed Bomb
+001:Synthesis
+001:Struggle Bug
+001:Cross Poison
+006:Stun Spore
+006:Poison Powder
+011:Leech Life
+017:Fury Cutter
+022:Spore
+029:Slash
+037:Growth
+044:Leech Seed
+051:Aromatherapy
+059:Rage Powder
+066:X-Scissor
 
-
+048.
