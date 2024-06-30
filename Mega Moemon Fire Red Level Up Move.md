@@ -668,6 +668,16 @@ Levle Up Move
 001:Scratch
 006:Stun Spore
 006:Poison Powder
+011:Leech Life
+017:Fury Cutter
+022:Spore
+027:Slash
+033:Growth
+038:Giga Drain
+043:Aromatherapy
+049:Rage Powder
+054:X-Scissor
 
+047.Parasect
 
 
