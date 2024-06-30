@@ -606,4 +606,62 @@ Levle Up Move
 037:Poison Fang
 041:Haze
 045:Air Slash
-04
+
+042.Golbat
+001:Screech
+001:U-turn
+001:Roost
+001:Leech Life
+004:Supersonic
+008:Astonish
+012:Bite
+015:Wing Attack
+019:Confuse Ray
+024:Swift
+028:Air Cutter
+033:Acrobatics
+038:Mean Look
+042:Poison Fang
+047:Haze
+052:Air Slash
+
+043.Oddish
+001:Absorb
+005:Sweet Scent
+009:Acid
+013:Poison Powder
+015:Stun Spore
+017:Sleep Powder
+021:Mega Drain
+025:Teeter Dance
+029:Nature Power
+033:Charm
+037:Moonlight
+041:Moonblast
+045:Petal Dance
+
+044.Gloom
+001.Absorb
+001:Sweet Scent
+001:Acid
+013:Poison Powder
+015:Stun Spore
+017:Sleep Powder
+023:Mega Drain
+027:Teeter Dance
+031:Nature Power
+035:Charm
+041:Moonlight
+047:Sludge Bomb
+053:Petal Dance
+
+045.Vileplume
+001:Aromatherapy
+001:Seed Bomb
+001:Sludge Wave
+001:Moonblast
+001:Growth
+053:Petal Dance
+065:Energy Ball
+
+
