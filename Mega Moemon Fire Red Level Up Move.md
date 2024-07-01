@@ -696,4 +696,12 @@ Levle Up Move
 059:Rage Powder
 066:X-Scissor
 
-048.
+048.Venonat
+001:Tackle
+001:Disable
+001:Foresight
+005:Supersonic
+011:Confusion
+013:Poison Powder
+017:Leech Life
+02
