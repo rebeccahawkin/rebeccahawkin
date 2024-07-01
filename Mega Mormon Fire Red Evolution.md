@@ -18,3 +18,6 @@ Zubat(22)Golbat(High Friendship)Crobat
 Oddish(21)Gloom(Leaf Stone)Vileplume
 Paras(24)Parasect
 Venonat(31)Venomoth
+Diglett(26)Dugtrio
+Meowth(28)Persian
+Psyduck(33)
