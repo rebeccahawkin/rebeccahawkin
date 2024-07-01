@@ -704,4 +704,14 @@ Levle Up Move
 011:Confusion
 013:Poison Powder
 017:Leech Life
-02
+023:Stun Spore
+025:Psybeam
+029:Sleep Powder
+035:Signal Beam
+037:Zen Headbutt
+041:Poison Fang
+047:Baton Pass
+
+049.Venomoth
+
+
