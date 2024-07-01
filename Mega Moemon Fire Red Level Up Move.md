@@ -713,5 +713,115 @@ Levle Up Move
 047:Baton Pass
 
 049.Venomoth
+001:Roost
+001:Toxic Spikes
+001:Struggle Bug
+001:Endure
+001:Silver Wind
+005:Supersonic
+011:Confusion
+013::Poison Powder
+017:Leech Life
+023:Stun Spore
+025:Psybeam
+029:Sleep Powder
+031:Gust
+037:Signal Beam
+041:Zen Headbutt
+047:Poison Fang
+055:Baton Pass
+059:Bug Buzz
+063:Quiver Dance
+
+050.Diglett
+001:Scrathch
+001:Sand-Attack
+004:Growl
+007:Astonish
+012:Mud-Slap
+015:Magnitude
+018:Dig
+023:Sucker Punch
+026:Bulldoze
+029:Mud Bomb
+034:Earth Power
+037:Slash
+040:Eathquake
+045:Fissure
+
+051.Dugtrio
+001:Tri Attack
+001:Reversal
+001:Pursuit
+001:Memento
+001:Night Slash
+004:Growl
+007:Astonish
+012:Mud-Slap
+015:Magnitude
+018:Dig
+023:Sucker Punch
+026:Sand Tomb
+028:Mud Bomb
+033:Bulldoze
+040:Earth Power
+045:Slash
+050:Earthquake
+057:Fissure
+
+052.Meowth
+001:Scratch
+001:Growl
+006:Bite
+009:Fake Out
+014:Fury Swipes
+017:Screech
+022:Feint Attack
+025:Icy Wind
+030:Pay Day
+033:Slash
+038:Nasty Plot
+041:Shadow Claw
+046:Night Slash
+049:Hone Claws
+
+053.Persian
+001:Play Rough
+001:Hyper Voice
+001:Swagger
+001:Dark Pulse
+001:Switcheroo
+006:Bite
+009:Fake Out
+014:Fury Swipes
+017:Screech
+022:Feint Attack
+025:Icy Wind
+028:Swift
+032:Power Gem
+037:Hypnosis
+044:Slash
+049:Nasty Plot
+056:Shadow Claw
+061:Night Slash
+068:Hone Claws
+
+054.Psyduck
+001:Water Sport
+001:Scratch
+004:Tail Whip
+008:Water Gun
+011:Disable
+015:Confusion
+018:Scald
+022:Fury Swipes
+025:Screech
+029:Zen Headbutt
+032:Aqua Tail
+036:Encore
+039:Psych Up
+043:Amnesia
+046:Hydro Pump
+050:Role Play
 
 
