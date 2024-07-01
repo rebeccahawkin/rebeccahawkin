@@ -17,4 +17,4 @@ Jigglypuff(Moon Stone)Wigglytuff
 Zubat(22)Golbat(High Friendship)Crobat
 Oddish(21)Gloom(Leaf Stone)Vileplume
 Paras(24)Parasect
-Venonat(31)
+Venonat(31)Venomoth
