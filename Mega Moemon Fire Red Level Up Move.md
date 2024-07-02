@@ -824,4 +824,106 @@ Levle Up Move
 046:Hydro Pump
 050:Role Play
 
+055.Golduck
+001:Water Sport
+001:Low Sweep
+001:Hypnosis
+001:Aqua Jet
+001:Nasty Plot
+001:Power Gem
+004:Tail Whip
+008:Water Gun
+011:Disable
+015:Confusion
+018:Scald
+022:Fury Swipes
+025:Screech
+029:Zen Headbutt
+032:Aqua Tail
+038:Encore
+043:Psych Up
+049:Amnesia
+054:Hydro Pump
+060:Role Play
+
+056.Mankey
+001:Scratch
+001:Low Kick
+001:Leer
+001:Focus Energy
+001:Covet
+007:Fury Swipes
+010:Karate Chop
+017:Seismic Toss
+021:Screech
+025:Hone Claws
+033:Swagger
+037:Cross Chop
+041:Thrash
+045:Punishment
+049:Close Combat
+
+057:Primeape
+001:Beat Up
+001:Low Kick
+001:U-turn
+001:Focus Energy
+001:Endeavor
+009:Fury Swipes
+013:Karate Chop
+017:Seismic Toss
+021:Screech
+025:Hone Claws
+028:Rage
+035:Swagger
+041:Cross Chop
+047:Thrash
+053:Punishment
+059:Close Combat
+
+058.Growlithe
+001:Bite
+001:Covet
+006:Ember
+008:Leer
+010:Odor Sleuth
+012:Helping Hand
+017:Flame Wheel
+019:Reversal
+021:Fire Fang
+023:Take Down
+028:Flame Burst
+030:Agility
+032:Body Slam
+034:Flamethrower
+039:Crunch
+041:Heat Wave
+043:Outrage
+045:Flare Blitz
+
+059.Arcanine
+001:Will-O-Wisp
+001:Wild Charge
+001:Morning Sun
+001:Snarl
+001:Close Combat
+001:Flame Charge
+034:Extreme Speed
+
+060.Poliwag
+001:Water Sport
+005:Water Gun
+008:Hypnosis
+011:Bubble
+015:Double Slap
+018:Rain Dance
+021:Body Slam
+025:Bubble Beam
+028:Mud Shot
+031:Belly Drum
+035:Wake-Up Slap
+038:Mud Bomb
+041:Hydro Pump
+
+061.Poliwhirl
 
