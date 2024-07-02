@@ -20,4 +20,8 @@ Paras(24)Parasect
 Venonat(31)Venomoth
 Diglett(26)Dugtrio
 Meowth(28)Persian
-Psyduck(33)
+Psyduck(33)Golduck
+Mankey(28)Primeape
+Growlithe(Fire Stone)Arcanine
+
+
