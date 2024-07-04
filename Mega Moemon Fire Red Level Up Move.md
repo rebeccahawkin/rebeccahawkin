@@ -926,4 +926,54 @@ Levle Up Move
 041:Hydro Pump
 
 061.Poliwhirl
+001:Water Sport
+001:Encore
+001:Endeavor
+005:Water Gun
+008:Hypnosis
+011:Bubble
+015:Double Slap
+018:Rain Dance
+021:Body Slam
+027:Bubble Beam
+032:Mud Shot
+037:Belly Drum
+043:Wake-Up Slap
+048:Mud Bomb
+053:Hydro Pump
 
+062.Poliwrath
+001:Payback
+001:Endeavor
+001:Ice Ball
+001:Close Combat
+001:Hypnosis
+001:Submission
+001:Belly Drum
+032:Submission
+043:Mind Rider
+053:Dynamic Punch
+
+063.Abra
+001:Teleport
+
+064.Kadabra
+001:Teleport
+001:Kinesis
+001:Charge Beam
+016:Confusion
+018:Disable
+022:Miracle Eye
+024:Magic Coat
+028:Psybeam
+030:Reflect
+034:Skill Swap
+036:Recover
+040:Psycho Cut
+042:Role Play
+046:Signal Beam
+048:Future Sight
+052:Trick
+
+065.Alakazam
+00
