@@ -23,5 +23,5 @@ Meowth(28)Persian
 Psyduck(33)Golduck
 Mankey(28)Primeape
 Growlithe(Fire Stone)Arcanine
-Poliwag(25)Poliwhirl
-
+Poliwag(25)Poliwhirl(Water Stone)Poliwrath
+Abra(16)Kadabra(Linking Cord)Alakazam
