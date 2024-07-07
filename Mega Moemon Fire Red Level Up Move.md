@@ -976,4 +976,29 @@ Levle Up Move
 052:Trick
 
 065.Alakazam
-00
+001:Teleport
+001:Kinesis
+001:Charge Beam
+016:Confusion
+018:Disable
+022:Miracle Eye
+024:Magic Coat
+028:Psybeam
+030:Reflect
+034:Skill Swap
+036:Recover
+040:Psycho Cut
+042:Focus Blast
+046:Signal Beam
+048:Future Sight
+052:Trick
+
+066.Machop
+001:Low Kick
+001:Leer
+007:Focus Energy
+010:Karate Chop
+013:Low Sweep
+019:Foresight
+022:Seismic Toss
+02
